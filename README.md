@@ -10,3 +10,6 @@ To use this dojo, you must have the following:
 - Visual Studio Code
 
 Figma Project: https://www.figma.com/file/zfTWNrOnC6CJ7zeH2DzSSh/HTML-CSS-Dojo?type=design&node-id=0%3A1&t=ObgE9GVPlsFTzQY8-1
+
+Lessons:
+- Floating Input Label
